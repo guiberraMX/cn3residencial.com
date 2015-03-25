@@ -204,13 +204,8 @@ ul.list-links li a:hover {
 /* 2. Styling for specific pages */
 
 .page-sub-page #page-content:after {
-  background: #f1f1f1;
-  background: -moz-linear-gradient(top, #f1f1f1 0%, white 80%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f1f1f1), color-stop(80%, white));
-  background: -webkit-linear-gradient(top, #f1f1f1 0%, white 80%);
-  background: -o-linear-gradient(top, #f1f1f1 0%, white 80%);
-  background: -ms-linear-gradient(top, #f1f1f1 0%, white 80%);
-  background: linear-gradient(to bottom, #f1f1f1 0%, white 80%);
+  background: #EBEBEB;
+ 
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1f1f1', endColorstr='#ffffff',GradientType=0 );
   content: "";
   left: 0;
@@ -4616,6 +4611,7 @@ form label.error:before {
   transition: 0.4s;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
+
   padding-right: 15px;
   position: absolute;
   width: 100%;
@@ -4625,6 +4621,8 @@ form label.error:before {
   filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
   opacity: 1;
 }
+
+
 .search-box h2 {
   border: none;
   padding-bottom: 0;
@@ -4760,11 +4758,13 @@ form label.error:before {
   color: #5a5a5a;
 }
 .horizontal-search .search-box-wrapper .search-box .advanced-search {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 .horizontal-search .search-box-wrapper .search-box .advanced-search h3 {
   margin-top: 0;
 }
+
+
 
 .horizontal-search-float .search-box {
   padding-right: 0;
@@ -5030,11 +5030,17 @@ body, html {
   }
 }
 
+.cn{
+  vertical-align: bottom !important;
+}
+
 
 @media (max-width: 768px){
   .cn{
     width: 20%;
     margin-left: 38%;
+
+
 
 
   }
