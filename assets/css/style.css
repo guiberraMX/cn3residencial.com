@@ -35,11 +35,12 @@ a {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  color: #1396e2;
+  color: #1E1F1F;
   outline: none !important;
 }
 a:hover {
   text-decoration: none;
+  color: #A55F30;
 }
 a:hover h1, a:hover h2, a:hover h3, a:hover h4 {
   color: #1396e2;
@@ -196,7 +197,7 @@ ul.list-links li a {
   padding-left: 0;
 }
 ul.list-links li a:hover {
-  color: #1396e2;
+  color: #1E1F1F;
   padding-left: 5px;
 }
 
@@ -394,7 +395,7 @@ ul.list-links li a:hover {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  color: #2a2a2a;
+  color: #1E1F1F;
   display: inline-block;
 }
 .link-arrow:after {
@@ -410,7 +411,7 @@ ul.list-links li a:hover {
   line-height: 1;
   text-transform: none;
   content: "\f105";
-  color: #1396e2;
+  color: #1E1F1F;
   left: 0;
   font-size: 18px;
   margin-left: 10px;
@@ -419,7 +420,7 @@ ul.list-links li a:hover {
   bottom: 2px;
 }
 .link-arrow:hover {
-  color: #2a2a2a;
+  color: #1E1F1F;
   cursor: pointer;
 }
 .link-arrow:hover:after {
@@ -3478,7 +3479,7 @@ ul.list-links li a:hover {
   margin-top: 100px;
 }
 .submission-message header {
-  color: #073855;
+  color: #5a5a5a;
   font-size: 48px;
   font-weight: lighter;
   margin: 10px 0;
@@ -4951,6 +4952,12 @@ body, html {
 }
 
 /* 7. Responsive */
+
+@media (min-width: 670px){
+  .fofo{
+    width: 7%;
+  }
+}
 
 @media (min-width: 1200px) {
   .page-homepage .row:last-child .property {
