@@ -1681,7 +1681,7 @@ ul.list-links li a:hover {
   D
 ****/
 .display-lines .property {
-  border-bottom: 2px solid #f3f3f3;
+  border-bottom: 0px solid #f3f3f3;
   padding-left: 280px;
   padding-bottom: 30px;
   position: relative;
