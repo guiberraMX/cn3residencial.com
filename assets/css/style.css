@@ -43,7 +43,7 @@ a:hover {
   color: #A55F30;
 }
 a:hover h1, a:hover h2, a:hover h3, a:hover h4 {
-  color: #1396e2;
+  color: #E7B431;
 }
 a:focus, a:active {
   outline: none !important;
@@ -53,7 +53,7 @@ a h1, a h2, a h3, a h4 {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  color: #073855;
+  color: #E7B431;
 }
 
 blockquote {
@@ -1405,6 +1405,8 @@ ul.list-links li a:hover {
 }
 .blog-post p {
   margin-bottom: 20px;
+  text-align: justify;
+  font-size: 1.3em;
 }
 .blog-post ul {
   padding-left: 25px;
