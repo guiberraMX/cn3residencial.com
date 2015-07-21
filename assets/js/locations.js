@@ -8,11 +8,9 @@ var locations = [
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.859098, 2.423515, "property-detail.html", "assets/img/properties/property-08.jpg", "assets/img/property-types/houseboat.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.872296, 2.287796, "property-detail.html", "assets/img/properties/property-07.jpg", "assets/img/property-types/land.png"],
 
-    ['51 A Poniente', "", "Vendida", 19.023941, -98.214920, "modelo1.html", "assets/img/properties/property-09.jpg", "assets/img/property-types/single-family.png"],
-    ['51 A Poniente', "", "Vendida", 19.027035, -98.224040, "modelo1.html", "assets/img/properties/property-09.jpg", "assets/img/property-types/single-family.png"],
-    ['51 A Poniente', "", "Vendida", 19.025842, -98.205922, "modelo1.html", "assets/img/properties/property-09.jpg", "assets/img/property-types/single-family.png"],
-    
+    ['Privada Cuahutemoc No. 13', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/properties/momo1.jpg", "assets/img/property-types/single-family.png"],
 
+    
 
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.875191, 2.252412, "property-detail.html", "assets/img/properties/property-10.jpg", "assets/img/property-types/villa.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.864352, 2.257218, "property-detail.html", "assets/img/properties/property-11.jpg", "assets/img/property-types/vineyard.png"],
