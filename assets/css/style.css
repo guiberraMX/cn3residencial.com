@@ -4613,6 +4613,7 @@ form label.error:before {
   transition: 0.4s;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
+  top:233px;
 
   padding-right: 15px;
   position: absolute;
@@ -4981,6 +4982,10 @@ body, html {
   .member {
     padding-left: 110px;
   }
+
+  .search-box{
+    top:210px !important;
+  }
   .member h3 {
     font-size: 14px;
   }
@@ -5029,6 +5034,7 @@ body, html {
     position: relative !important;
     height: 100% !important;
     width: inherit !important;
+
   }
 }
 
@@ -5043,6 +5049,10 @@ body, html {
 
 
 
+  }
+
+  .search-box{
+    top:63px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
