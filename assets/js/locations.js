@@ -8,7 +8,7 @@ var locations = [
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.859098, 2.423515, "property-detail.html", "assets/img/properties/property-08.jpg", "assets/img/property-types/houseboat.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.872296, 2.287796, "property-detail.html", "assets/img/properties/property-07.jpg", "assets/img/property-types/land.png"],
 
-    ['Privada Cuahutemoc No. 13', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/properties/momo1.jpg", "assets/img/property-types/single-family.png"],
+    ['Conjunto Residencial la Carcaña', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/properties/momo1.jpg", "assets/img/property-types/single-family.png"],
 
     
 
