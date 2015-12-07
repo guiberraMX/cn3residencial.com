@@ -1,6 +1,15 @@
 var locations = [
-    ['Conjunto Residencial la Carcaña', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/properties/momo1.jpg", "assets/img/property-types/single-family.png"],
-    ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.866876, 2.309639, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/apartment.png"],
+    ['Conjunto Residencial la Carcaña', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/carcaña/3.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio II', "", "¡Apartala!", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
+    
+     ['Patrimonio I', "", "¡Apartala!", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/single-family.png"],
+    
+
+
+     /*
+
+
+     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.866876, 2.309639, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/apartment.png"],
 
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.874796, 2.299275, "property-detail.html", "assets/img/properties/property-03.jpg", "assets/img/property-types/construction-site.png"],
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.864194, 2.288868, "property-detail.html", "assets/img/properties/property-04.jpg", "assets/img/property-types/cottage.png"],
@@ -34,7 +43,8 @@ var locations = [
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.893534, 2.276616, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/construction-site.png"],
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.872570, 2.237349, "property-detail.html", "assets/img/properties/property-03.jpg", "assets/img/property-types/cottage.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.879344, 2.226191, "property-detail.html", "assets/img/properties/property-04.jpg", "assets/img/property-types/garage.png"],
-     /*
+
+
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.860374, 2.222242, "property-detail.html", "assets/img/properties/property-05.jpg", "assets/img/property-types/condominium.png"],
     ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.845917, 2.265673, "property-detail.html", "assets/img/properties/property-06.jpg", "assets/img/property-types/cottage.png"],
     ['2479 Murphy Court', "Minneapolis, MN 55402", "$36,000", 48.843092, 2.306013, "property-detail.html", "assets/img/properties/property-07.jpg", "assets/img/property-types/warehouse.png"],
