@@ -222,8 +222,8 @@ function createHomepageOSM(_latitude,_longitude){
                 zoom: 14,
                 scrollWheelZoom: false
             });
-            L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roadsg/x={x}&y={y}&z={z}', {
-                //L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+            //L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roadsg/x={x}&y={y}&z={z}', {
+            L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
                 //subdomains: '0123',
                 attribution: ''
             }).addTo(map);
