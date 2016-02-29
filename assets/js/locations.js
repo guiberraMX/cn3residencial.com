@@ -1,8 +1,8 @@
 var locations = [
-    ['Conjunto Residencial la Carcaña', "", "¡Apartala!", 19.069066, -98.271291, "modelo2.html", "assets/img/carcaña/3.png", "assets/img/property-types/single-family.png"],
-     ['Patrimonio II', "", "¡Apartala!", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
+    ['Conjunto Residencial la Carcaña', "", "TOTALMENTE VENDIDO", 19.069066, -98.271291, "modelo2.html", "assets/img/carcaña/3.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio II', "", "TOTALMENTE VENDIDO", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
     
-     ['Patrimonio I', "", "¡Apartala!", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/property-01.jpg", "assets/img/property-types/single-family.png"],
+     ['Patrimonio III', "", "2 Disponibles", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/pat3.png", "assets/img/property-types/single-family.png"],
     
 
 
