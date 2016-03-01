@@ -49,6 +49,11 @@ a:focus, a:active {
   outline: none !important;
   text-decoration: none;
 }
+
+
+.fuera{
+  background-color: #E7B431 !important;
+}
 a h1, a h2, a h3, a h4 {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
