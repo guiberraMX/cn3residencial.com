@@ -51,9 +51,21 @@ a:focus, a:active {
 }
 
 
-.fuera{
+.big{
   background-color: #E7B431 !important;
 }
+
+.fuera {
+  background-color: #E7B431 !important;
+}
+
+.lis{
+  list-style: none !important;
+  padding: 14px !important;
+  text-align: center !important;
+  font-size: 16px !important;
+}
+
 a h1, a h2, a h3, a h4 {
   -moz-transition: 0.2s;
   -webkit-transition: 0.2s;
