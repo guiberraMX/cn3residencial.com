@@ -3,6 +3,10 @@ var locations = [
      ['Patrimonio II', "", "TOTALMENTE VENDIDO", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
     
      ['Patrimonio III', "", "2 Disponibles", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/pat3.png", "assets/img/property-types/single-family.png"],
+
+     ['Proyecto Independencia', "", "Próximamente", 19.0134543, -98.2299627, "#", "assets/img/properties/i.png", "assets/img/property-types/single-family.png"],
+
+     ['Proyecto Vicente Guerrero', "", "Próximamente", 19.0094948,-98.2305622, "#", "assets/img/properties/vg.png", "assets/img/property-types/single-family.png"],
     
 
 
