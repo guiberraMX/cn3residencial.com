@@ -2,15 +2,27 @@ var locations = [
     ['Conjunto Residencial la Carcaña', "", "TOTALMENTE VENDIDO", 19.069066, -98.271291, "modelo2.html", "assets/img/carcaña/3.png", "assets/img/property-types/single-family.png"],
      ['Patrimonio II', "", "TOTALMENTE VENDIDO", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
     
-     ['Patrimonio III', "", "2 Disponibles", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/pat3.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio III', "", "TOTALMENTE VENDIDO", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/patrimonio3.png", "assets/img/property-types/single-family.png"],
 
-     ['Proyecto Independencia', "", "Próximamente", 19.0134543, -98.2299627, "#", "assets/img/properties/i.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio IV', "", "Tres disponibles", 19.009503, -98.224406, "modelo4.html", "assets/img/properties/pat4.png", "assets/img/property-types/single-family.png"],
+
+     
+
+
+     /*
+
 
      ['Proyecto Vicente Guerrero', "", "Próximamente", 19.0094948,-98.2305622, "#", "assets/img/properties/vg.png", "assets/img/property-types/single-family.png"],
     
 
 
-     /*
+
+
+
+
+
+
+
 
 
      ['3398 Lodgeville Road', "Golden Valley, MN 55427", "$28,000", 48.866876, 2.309639, "property-detail.html", "assets/img/properties/property-02.jpg", "assets/img/property-types/apartment.png"],
