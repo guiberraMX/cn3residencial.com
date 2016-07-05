@@ -2,18 +2,18 @@ var locations = [
     ['Conjunto Residencial la Carcaña', "", "TOTALMENTE VENDIDO", 19.069066, -98.271291, "modelo2.html", "assets/img/carcaña/3.png", "assets/img/property-types/single-family.png"],
      ['Patrimonio II', "", "TOTALMENTE VENDIDO", 19.014721, -98.223524, "modelo3.html", "assets/img/patrimonio2/1.png", "assets/img/property-types/single-family.png"],
     
-     ['Patrimonio III', "", "TOTALMENTE VENDIDO", 19.011107, -98.225620, "modelo1.html", "assets/img/properties/patrimonio3.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio III', "", "TOTALMENTE VENDIDO", 19.011107, -98.225620, "modelo1.html", "assets/img/patrimonio3ok.png", "assets/img/property-types/single-family.png"],
 
-     ['Patrimonio IV', "", "Tres disponibles", 19.009503, -98.224406, "modelo4.html", "assets/img/properties/pat4.png", "assets/img/property-types/single-family.png"],
+     ['Patrimonio IV', "", "Tres disponibles", 19.009503, -98.224406, "modelo4.html", "assets/img/properties/patrimonio3.png", "assets/img/property-types/single-family.png"],
 
-     
+     ['Proyecto Vicente Guerrero', "", "Próximamente", 19.0094948,-98.2305622, "#", "assets/img/properties/vg.png", "assets/img/property-types/single-family.png"],
+    
 
 
      /*
 
 
-     ['Proyecto Vicente Guerrero', "", "Próximamente", 19.0094948,-98.2305622, "#", "assets/img/properties/vg.png", "assets/img/property-types/single-family.png"],
-    
+     
 
 
 
