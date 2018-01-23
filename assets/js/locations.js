@@ -8,7 +8,9 @@ var locations = [
 
      ['Patrimonio V', "", "TOTALMENTE VENDIDO", 19.009191, -98.225638, "modelo5.html", "assets/img/patrimonio5/0.jpg", "assets/img/property-types/single-family.png"],
 
-     ['Proyecto Vicente Guerrero', "", "Tres disponibles", 19.0094948,-98.2305622, "modelo6.html", "assets/img/patrimonio6.png", "assets/img/property-types/single-family.png"],
+     ['Proyecto Vicente Guerrero', "", "TOTALMENTE VENDIDO", 19.0094948,-98.2305622, "modelo6.html", "assets/img/patrimonio6.png", "assets/img/property-types/single-family.png"],
+
+     ['Patrimonio VI', "", "Cuatro disponibles", 19.011262,-98.223520, "modelo7.html", "assets/img/3s7.jpg", "assets/img/property-types/single-family.png"],
     
 
 
